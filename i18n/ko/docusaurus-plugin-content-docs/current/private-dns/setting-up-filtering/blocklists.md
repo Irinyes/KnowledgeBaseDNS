@@ -1,11 +1,11 @@
 ---
-title: Blocklists
+title: 차단 목록
 sidebar_position: 1
 ---
 
-## What blocklists are
+## 차단 목록이란 무엇인가요?
 
-Blocklists are sets of rules in text format that AdGuard DNS uses to filter out ads and content that could compromise your privacy. In general, a filter consists of rules with a similar focus. For example, there may be rules for website languages (such as German or Russian filters) or rules that protect against phishing sites (such as the Phishing URL Blocklist). You can easily enable or disable these rules as a group.
+차단 목록은 AdGuard DNS가 광고 및 개인정보 보호를 침해할 수 있는 콘텐츠를 필터링하기 위해 사용하는 텍스트 형식의 규칙 집합입니다. 일반적으로 필터는 유사한 초점을 가진 규칙으로 구성됩니다. For example, there may be rules for website languages (such as German or Russian filters) or rules that protect against phishing sites (such as the Phishing URL Blocklist). You can easily enable or disable these rules as a group.
 
 ## Why they are useful
 
@@ -22,7 +22,7 @@ To activate the blocklists:
 
 ## Blocklists types
 
-### General
+### 일반
 
 A group of filters that includes lists for blocking ads and tracking domains.
 

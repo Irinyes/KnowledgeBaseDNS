@@ -1,4 +1,8 @@
-# So erstellen Sie Ihren eigenen DNS-Stempel für Secure DNS
+- - -
+title: How to create your own DNS stamp for Secure DNS
+
+sidebar_position: 4
+- - -
 
 Diese Anleitung zeigt Ihnen, wie Sie Ihren eigenen DNS-Stempel für Secure DNS erstellen. Secure DNS is a service that enhances your internet security and privacy by encrypting your DNS queries. Dadurch wird verhindert, dass Ihre Abfragen von böswilligen Akteuren abgefangen oder manipuliert werden.
 

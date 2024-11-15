@@ -1,6 +1,6 @@
 ---
 title: 'So erstellen Sie einen Bildschirmfoto'
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 Ein Bildschirmfoto ist eine Aufnahme des Bildschirms Ihres Computers oder Mobilgeräts, die mit Standardwerkzeugen oder einem speziellen Programm bzw. einer App erstellt werden kann.

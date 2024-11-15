@@ -1,4 +1,8 @@
-# Güvenli DNS için kendi DNS damganızı nasıl oluşturabilirsiniz
+- - -
+title: How to create your own DNS stamp for Secure DNS
+
+sidebar_position: 4
+- - -
 
 Bu kılavuz, Güvenli DNS için kendi DNS damganızı nasıl oluşturacağınızı gösterir. Güvenli DNS, DNS sorgularınızı şifreleyerek internet güvenliğinizi ve gizliliğinizi artıran bir hizmettir. Bu, sorgularınızın kötü niyetli kişiler tarafından ele geçirilmesini veya manipüle edilmesini önler.
 

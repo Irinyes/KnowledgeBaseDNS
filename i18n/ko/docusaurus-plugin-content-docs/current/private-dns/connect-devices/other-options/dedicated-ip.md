@@ -1,9 +1,9 @@
 ---
-title: Dedicated IPs
+title: 전용 IP
 sidebar_position: 2
 ---
 
-## What are dedicated IPs?
+## 전용 IP란 무엇인가요?
 
 Dedicated IPv4 addresses are available to users with Team and Enterprise subscriptions, while linked IPs are available to everyone.
 

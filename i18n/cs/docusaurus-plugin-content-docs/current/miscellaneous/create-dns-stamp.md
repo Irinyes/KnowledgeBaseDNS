@@ -1,4 +1,8 @@
-# Jak vytvořit vlastní razítko DNS pro zabezpečený DNS
+- - -
+title: How to create your own DNS stamp for Secure DNS
+
+sidebar_position: 4
+- - -
 
 Tento průvodce vám ukáže, jak vytvořit vlastní razítko DNS pro zabezpečený DNS. Zabezpečený DNS je služba, která zvyšuje bezpečnost a soukromí na internetu šifrováním dotazů DNS. Tím se zabrání tomu, aby vaše dotazy zachytily nebo zmanipulovaly zákeřné subjekty.
 
