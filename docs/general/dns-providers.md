@@ -512,31 +512,22 @@ Hurricane Electric Public Recursor is a free alternative DNS service by Hurrican
 | DNS, IPv4      | `180.131.144.144` and `180.131.145.145`            | [Add to AdGuard](adguard:add_dns_server?address=180.131.144.144&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=180.131.144.144&name=) |
 | DNSCrypt, IPv4 | Provider: `2.dnscrypt-cert.nawala.id` IP: `180.131.144.144`  | [Add to AdGuard](sdns://AQAAAAAAAAAADzE4MC4xMzEuMTQ0LjE0NCDGC-b_38Dj4-ikI477AO1GXcLPfETOFpE36KZIHdOzLhkyLmRuc2NyeXB0LWNlcnQubmF3YWxhLmlk) |
 
-### Neustar Recursive DNS
+### Vercara UltraDNS Public
 
-[Neustar Recursive DNS](https://www.security.neustar/digital-performance/dns-services/recursive-dns) is a free cloud-based recursive DNS service that delivers fast and reliable access to sites and online applications with built-in security and threat intelligence.
+[Vercara UltraDNS Public](https://vercara.com/ultra-dns-public) is a free cloud-based recursive DNS service that delivers fast and reliable access to sites and online applications with built-in security and threat intelligence.
 
-#### Reliability & Performance 1
+#### Unfiltered Resolution
 
 These servers provide reliable and fast DNS lookups without blocking any specific categories.
 
 | Protocol       | Address                                            |                |
 |----------------|----------------------------------------------------|----------------|
-| DNS, IPv4      | `156.154.70.1` and `156.154.71.1`                  | [Add to AdGuard](adguard:add_dns_server?address=156.154.70.1&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=156.154.70.1&name=) |
-| DNS, IPv6      | `2610:a1:1018::1` and `2610:a1:1019::1`            | [Add to AdGuard](adguard:add_dns_server?address=2610:a1:1018::1&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=2610:a1:1018::1&name=) |
-
-#### Reliability & Performance 2
-
-These servers provide reliable and fast DNS lookups without blocking any specific categories and also prevent redirecting NXDomain (non-existent domain) responses to landing pages.
-
-| Protocol       | Address                                            |                |
-|----------------|----------------------------------------------------|----------------|
-| DNS, IPv4      | `156.154.70.5` and `156.154.71.5`                  | [Add to AdGuard](adguard:add_dns_server?address=156.154.70.5&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=156.154.70.5&name=) |
-| DNS, IPv6      | `2610:a1:1018::5` and `2610:a1:1019::5`            | [Add to AdGuard](adguard:add_dns_server?address=2610:a1:1018::5&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=2610:a1:1018::5&name=) |
+| DNS, IPv4      | `64.6.64.6` and `64.6.65.6`                  | [Add to AdGuard](adguard:add_dns_server?address=64.6.64.6&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=64.6.65.6&name=) |
+| DNS, IPv6      | `2620:74:1b::1:1` and `2620:74:1c::2:2`            | [Add to AdGuard](adguard:add_dns_server?address=2620:74:1b::1:1&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=2620:74:1c::2:2&name=) |
 
 #### Threat Protection
 
-These servers provide protection against malicious domains and also include "Reliability & Performance" features.
+These servers protect against malicious domains for security purposes. (Ransomware, Spyware and Phishing)
 
 | Protocol       | Address                                            |                |
 |----------------|----------------------------------------------------|----------------|
@@ -545,21 +536,12 @@ These servers provide protection against malicious domains and also include "Rel
 
 #### Family Secure
 
-These servers provide adult content blocking and also include "Reliability & Performance" + "Threat Protection" features.
+These servers protect children from accessing mature content. (Gambling, Pornography, Violence and Hate/Discrimination)
 
 | Protocol       | Address                                            |                |
 |----------------|----------------------------------------------------|----------------|
 | DNS, IPv4      | `156.154.70.3` and `156.154.71.3`                  | [Add to AdGuard](adguard:add_dns_server?address=156.154.70.3&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=156.154.70.3&name=) |
 | DNS, IPv6      | `2610:a1:1018::3` and `2610:a1:1019::3`            | [Add to AdGuard](adguard:add_dns_server?address=2610:a1:1018::3&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=2610:a1:1018::3&name=) |
-
-#### Business Secure
-
-These servers provide blocking unwanted and time-wasting content and also include "Reliability & Performance" + "Threat Protection" + "Family Secure" features.
-
-| Protocol       | Address                                            |                |
-|----------------|----------------------------------------------------|----------------|
-| DNS, IPv4      | `156.154.70.4` and `156.154.71.4`                  | [Add to AdGuard](adguard:add_dns_server?address=156.154.70.4&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=156.154.70.4&name=) |
-| DNS, IPv6      | `2610:a1:1018::4` and `2610:a1:1019::4`            | [Add to AdGuard](adguard:add_dns_server?address=2610:a1:1018::4&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=2610:a1:1018::4&name=) |
 
 ### NextDNS
 
